@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b41f93e6-0954-425c-ad81-287d605af783" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - cnblog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - cnblog@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - cnblog@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - cnblog@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cnblog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fZgpo4WwhKLnBlUbdRJV7vdI8t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\untitled2\untitled1\cnblog\static\font" />
+      <recent name="D:\untitled2\untitled1\cnblog\static\blog" />
+      <recent name="D:\untitled2\untitled1\cnblog\static\blog\bs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\untitled2\untitled1\cnblog\static\font" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.cnblog">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cnblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cnblog" type="Python.DjangoServer" factoryName="Django server" singleton="false">
+      <module name="cnblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="cnblog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\张泓宇\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="true" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41f93e6-0954-425c-ad81-287d605af783" name="Default Changelist" comment="" />
+      <created>1596431213540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596431213540</updated>
+      <workItem from="1596431217702" duration="2681000" />
+      <workItem from="1596462642475" duration="2023000" />
+      <workItem from="1596506684675" duration="3988000" />
+      <workItem from="1596511904916" duration="215000" />
+      <workItem from="1596512139465" duration="1335000" />
+      <workItem from="1596513673465" duration="91000" />
+      <workItem from="1596513781618" duration="288000" />
+      <workItem from="1596514085775" duration="501000" />
+      <workItem from="1596514680150" duration="321000" />
+      <workItem from="1596515019413" duration="264000" />
+      <workItem from="1596515297655" duration="188000" />
+      <workItem from="1596518482724" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="124" key="#HTTP_Proxy" timestamp="1596432617869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="124" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1596432617869" />
+    <state x="796" y="4" width="597" height="667" key="#cnblog" timestamp="1596518635394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="796" y="4" width="597" height="667" key="#cnblog/0.0.1536.824@0.0.1536.824" timestamp="1596518635394" />
+    <state x="213" y="135" width="814" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596433846892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="213" y="135" width="814" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596433846892" />
+    <state x="878" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596512826128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="878" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596512826128" />
+    <state x="819" y="146" key="FileChooserDialogImpl" timestamp="1596518591093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="819" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596518591093" />
+    <state width="914" height="177" key="GridCell.Tab.0.bottom" timestamp="1596512120005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596512120005" />
+    <state width="914" height="177" key="GridCell.Tab.0.center" timestamp="1596512120005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596512120005" />
+    <state width="914" height="177" key="GridCell.Tab.0.left" timestamp="1596512120005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596512120005" />
+    <state width="914" height="177" key="GridCell.Tab.0.right" timestamp="1596512120005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596512120005" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1596433628170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1596433628170" />
+    <state x="348" y="98" width="996" height="707" key="SettingsEditor" timestamp="1596518612040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="98" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596518612040" />
+    <state x="845" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1596509409501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="845" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596509409501" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cnblog$views.coverage" NAME="views Coverage Results" MODIFIED="1596464101788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog" />
+  </component>
+</project>
